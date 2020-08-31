@@ -5,13 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "hello-world",
+            "name": "string-converter",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/example1/hello-world",
+            "program": "${workspaceFolder}/examples/string-converter",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}/example1",
+            "cwd": "${workspaceFolder}/examples",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
