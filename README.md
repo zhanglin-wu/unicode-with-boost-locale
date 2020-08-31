@@ -1,4 +1,4 @@
-## C++ Examples for Unicode with Boost.locale
+# C++ Examples for Unicode with Boost.locale
 
 ## Overview
 
@@ -18,7 +18,7 @@ g++ -g -Wall -o string-converter string-converter.cpp -L/opt/boost/lib -lboost_s
 ./string-converter
 ```
 
-#### Docker container (Windows/macOS/Linux)
+#### Docker container (Host: Windows/macOS/Linux)
 
 ##### Prerequisites
 
